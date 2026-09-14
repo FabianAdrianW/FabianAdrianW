@@ -16,7 +16,7 @@ Currently building **[Eyelingo](https://www.eyelingo.app)** — a language-learn
 
 | Project | What it is |
 |---|---|
-| **[eyelingo](https://github.com/FabianAdrianW/eyelingo)** | Ambient language-learning platform. AI tutor (Lex), conversational partner (Alex), SM-2 spaced repetition, CAT-lite adaptive onboarding, grammar banks for 6 languages. |
+| **[eyelingo](https://github.com/FabianAdrianW/eyelingo)** | Ambient language-learning platform. AI tutor (Lex), conversational partner (Alex), SM-2 spaced repetition, CAT-lite adaptive onboarding, grammar banks across 14 languages (A1–C2). |
 | **[fluffy3dgenerator](https://github.com/FabianAdrianW/fluffy3dgenerator)** | Browser-based 3D creature generator with an integrated AI chat — built as a concept piece for a cosmetics brand. |
 | **[nacomi_strony](https://github.com/FabianAdrianW/nacomi_strony)** | UX/UI redesign concept for a Polish natural-cosmetics brand. |
 
@@ -28,4 +28,4 @@ Languages: Polish · English · Spanish · Dutch · Japanese (basic)
 
 ### Elsewhere
 
-[eyelingo.app](https://www.eyelingo.app) · [YouTube @eyeamadrian](https://www.youtube.com/@eyeamadrian) · fabian.wojtasik@o2.pl
+[eyelingo.app](https://www.eyelingo.app) · [YouTube @eyeamadrian](https://www.youtube.com/@eyeamadrian) · eyeamadrian@gmail.com
