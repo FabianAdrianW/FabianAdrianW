@@ -9,7 +9,7 @@ Currently building **[Eyelingo](https://www.eyelingo.app)** — a language-learn
 ### What I do
 
 - **Ship AI products end to end** — LLM orchestration (OpenRouter, Gemini, Claude), prompt architecture, server-side proxying via Supabase Edge Functions, adaptive content generation at scale.
-- **Design before I code** — I run projects spec-first. Eyelingo is governed by a set of written "bibles" (Pedagogy, Assessment, Design, Logic, Master Framework) with numbered normative clauses. Every feature traces back to one.
+- **Design before I code** — I run projects spec-first. Eyelingo is governed by a set of written "bibles" (Pedagogy, Assessment, Design, Logic, Master Framework) with numbered normative clauses. Every feature traces back to one.  **[See one rule traced end to end →](https://github.com/FabianAdrianW/spec-first)**
 - **Build the whole stack** — Python/PyQt6 desktop, vanilla JS + Supabase web apps, Three.js 3D, static production sites for real clients.
 
 ### Selected work
