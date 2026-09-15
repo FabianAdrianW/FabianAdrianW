@@ -16,6 +16,7 @@ Currently building **[Eyelingo](https://www.eyelingo.app)** — a language-learn
 
 | Project | What it is |
 |---|---|
+| **[spec-first](https://github.com/FabianAdrianW/spec-first)** | One normative rule traced from spec clause through prompt contract, runtime validator and fallback path to measured results. Every claim checkable against public code; every number reproducible by a script in the repo. |
 | **[eyelingo](https://github.com/FabianAdrianW/eyelingo)** | Ambient language-learning platform. AI tutor (Lex), conversational partner (Alex), SM-2 spaced repetition, CAT-lite adaptive onboarding, grammar banks across 14 languages (A1–C2). |
 | **[fluffy3dgenerator](https://github.com/FabianAdrianW/fluffy3dgenerator)** | Browser-based 3D creature generator with an integrated AI chat — built as a concept piece for a cosmetics brand. |
 | **[nacomi_strony](https://github.com/FabianAdrianW/nacomi_strony)** | UX/UI redesign concept for a Polish natural-cosmetics brand. |
