@@ -28,5 +28,4 @@ Languages: Polish · English · Spanish · Dutch · Japanese (basic)
 
 ### Elsewhere
 
-[eyelingo.app](https://www.eyelingo.app) · [YouTube @eyeamadrian](https://www.youtube.com/@eyeamadrian) · eyeamadrian@gmail.com
-[LinkedIn](https://www.linkedin.com/in/adrian-wojtasik-224a4741a/)
+[eyelingo.app](https://www.eyelingo.app) · [YouTube @eyeamadrian](https://www.youtube.com/@eyeamadrian) · eyeamadrian@gmail.com · [LinkedIn](https://www.linkedin.com/in/adrian-wojtasik-224a4741a/)
